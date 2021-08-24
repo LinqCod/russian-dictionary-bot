@@ -1,0 +1,1 @@
+#Based on https://rustxt.ru/dict
